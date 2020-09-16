@@ -1,5 +1,12 @@
 # Consuming data from a GraphQL API located [here](https://github.com/lennertVanSever/graphcountries) that contains country-related data and displaying on React client.
 
+
+<h4 align="center">Desktop View Top</h4>
+<p align="center">
+  <img src="src/images/desktop.png" width="450" title="hover text">
+</p>
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

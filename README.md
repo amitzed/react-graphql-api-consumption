@@ -1,7 +1,8 @@
-# Consuming data from a GraphQL API located [here](https://github.com/lennertVanSever/graphcountries) that contains country-related data and displaying on React client.
+# Consuming data from a GraphQL API located [here](https://github.com/lennertVanSever/graphcountries) that contains country-related data (flag images and country name) and displaying on React client.
 
-
-<h4 align="center">Desktop View Top</h4>
+## View Heroku live deployment [here](https://react-graphql-flags-api.herokuapp.com/)
+<br>
+<h4 align="center">Minimal Styling - project goal: To consume data</h4>
 <p align="center">
   <img src="src/images/desktop.png" width="450" title="hover text">
 </p>
